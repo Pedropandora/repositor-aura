@@ -6,3 +6,7 @@ body{
  color: white ;
  font-family ; "Roboto", sans-serif;
  }
+
+ .cabecalho{
+     background-color: aqua;
+     text-align: center;
